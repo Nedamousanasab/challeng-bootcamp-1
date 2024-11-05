@@ -11,12 +11,12 @@ html {
 }
 @font-face {
   font-family: "vazir";
-  src: url(./font/Vazir.woff) format("woff");
+  src: url(../assets/font/Vazir.woff) format("woff");
   font-weight: normal;
 }
 @font-face {
   font-family: "vazirBold";
-  src: url(./font/Vazir-Bold.woff);
+  src: url(../assets/font/Vazir-Bold.woff);
 }
 body {
   font-family: "vazir";
