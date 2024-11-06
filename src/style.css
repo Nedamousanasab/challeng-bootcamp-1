@@ -85,7 +85,7 @@ article {
   background-color: var(--color-bg-header);
   color: var(--color-headr);
   padding: 0.2rem 0.7rem;
-  font-weight: bold;
+  font-weight: 700;
   border-radius: 6px;
 }
 .dacument--uplaod {
@@ -128,7 +128,7 @@ article {
 
 .membership {
   font-size: 1.4rem;
- font-weight: 700;
+  font-weight: 700;
   color: var(--color-heading);
 }
 .request--ID {
