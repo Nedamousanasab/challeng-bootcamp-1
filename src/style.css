@@ -9,17 +9,7 @@
 html {
   font-size: 62.5%;
 }
-@font-face {
-  font-family: "vazir";
-  src: url(../assets/font/Vazir.woff) format("woff");
-  font-weight: normal;
-}
-@font-face {
-  font-family: "vazirBold";
-  src: url(../assets/font/Vazir-Bold.woff);
-}
 body {
-  font-family: "vazir";
   font-size: 1.2rem;
 }
 /* Root variable */
@@ -138,7 +128,7 @@ article {
 
 .membership {
   font-size: 1.4rem;
-  font-weight: bold;
+ font-weight: 700;
   color: var(--color-heading);
 }
 .request--ID {
@@ -182,7 +172,6 @@ article {
 }
 .btn {
   white-space: nowrap;
-  font-family: "vazir";
   font-size: 1.4rem;
   padding: 1.5rem 0.5rem;
   border-radius: 8px;

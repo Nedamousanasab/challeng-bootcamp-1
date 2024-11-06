@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'vazir';
+    src: url("/assets/font/Vazir.ttf") format("woff2");
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family:'vazir';
+    src: url("/assets/font/Vazir-Medium.ttf") format("woff2");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family:'vazir';
+    src: url("/assets/font/Vazir-Bold.woff") format("woff2");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+  }
+  button{
+    font-family: "vazir";
+  }
+  body{
+    font-family: 'vazir';
+  }
